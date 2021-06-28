@@ -1,3 +1,5 @@
+![](https://i.imgur.com/98u1Yeu.png)
+
 # Telegram IP Address Information Bot
 
 [Check bot on Telegram](https://t.me/IPAddrCheckBot)
